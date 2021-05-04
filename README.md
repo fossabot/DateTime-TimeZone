@@ -1,4 +1,6 @@
 # NAME
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2FDateTime-TimeZone.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2FDateTime-TimeZone?ref=badge_shield)
+
 
 DateTime::TimeZone - Time zone object base class and factory
 
@@ -342,3 +344,6 @@ the same terms as the Perl 5 programming language system itself.
 
 The full text of the license can be found in the
 `LICENSE` file included with this distribution.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmartencassel%2FDateTime-TimeZone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmartencassel%2FDateTime-TimeZone?ref=badge_large)
